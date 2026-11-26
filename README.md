@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="Resources/AppIcon/appicon.svg" width="96" alt="CargaBR" />
+<img src="Resources/AppIcon/appicon.svg" width="96" alt="CARGAS BRASIL" />
 
-# CargaBR
+# CARGAS BRASIL
 
 **App de gestão de frota para caminhoneiros autônomos e pequenas transportadoras.**
 
